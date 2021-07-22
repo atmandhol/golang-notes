@@ -12,7 +12,7 @@ func someMath(x, y int) (int, int) {
 	return x + y, x - y
 }
 
-func hello() {
+func main() {
 	fmt.Println(fact)
-	fmt.Println(someMath(5,6))
+	fmt.Println(someMath(5, 6))
 }
