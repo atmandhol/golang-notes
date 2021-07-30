@@ -13,21 +13,8 @@ Installation:
 Golang Tour Offline:
   - go get golang.org/x/tour/gotour
 
-Basics:
-  - Program start running in package main
-  - fmt - package for input/output functions and print
-  - math/rand - well, for random number stuff
-  - Exported names are used to make functions and objects accessible 
-  outside of the package.
-  - Exported names start with capital letters.
-  - So math.Pi, where math is the package and Pi is exported.
-
 Packages:
   - The pypi for golang is here https://pkg.go.dev/
 
 Constructs:
-  - defer statements defers the execution of a function until the surrounding function returns.
-  - defers are stacked and the last one is executed first
-  - & operator generates a pointer to a variable
-  - * denotes the underlying value
   - Continue here https://tour.golang.org/moretypes/2
