@@ -16,5 +16,12 @@ Golang Tour Offline:
 Packages:
   - The pypi for golang is here https://pkg.go.dev/
 
+Error Handling in Go:
+  - https://gabrieltanner.org/blog/golang-error-handling-definitive-guide
+  - https://blog.golang.org/error-handling-and-go
+
+String Formatting:
+  - Format specifier cheet sheet: https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet/
+
 Constructs:
-  - Continue here https://tour.golang.org/methods/1
+  - Continue here https://tour.golang.org/methods/19
