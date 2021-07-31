@@ -16,7 +16,7 @@ var (
 func main() {
 
 	// Type conversion is pretty straight forward T(v)
-	// := is the assignment operator
+	// := is the declaration + assignment operator
 	// In Go, := is for declaration + assignment, whereas = is for assignment only.
 	BigOneWithNoPoints := int64(BigOneWithPoints)
 	// is same as var BigOneWithNoPoints int64 = int64(BigOneWithPoints)
